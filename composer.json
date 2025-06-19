@@ -1,0 +1,17 @@
+{
+    "name": "arman/honeypod",
+    "autoload": {
+        "psr-4": {
+            "Arman\\Honeypod\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arman Kumar",
+            "email": "armank8000@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
